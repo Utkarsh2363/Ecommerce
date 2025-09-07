@@ -1,2 +1,2 @@
-# ecommerce-app-2023
-complete mern stack ecommerce project 2023 complete code
+# ecommerce
+complete mern stack ecommerce project complete code
